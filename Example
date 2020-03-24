@@ -1,0 +1,7 @@
+class example
+{
+  public static void main(String... ar)\
+  {
+    system.out.println("helloooo...  Github");
+  }
+}
